@@ -1,16 +1,17 @@
-# myapp
+# Flutter Flappy Bird 
 
-A new Flutter project.
+## Tools and Dependencies used:
 
-## Getting Started
+- Programming Language used: Dart
+- Flutter 3.1.0
+- Visual Studio Code
+- Android Studio (Android SDK version 31.0.0)
 
-This project is a starting point for a Flutter application.
+## About the Application:
 
-A few resources to get you started if this is your first Flutter project:
+- The Application is built using Flutter 3.1.0 and is compatible for Android, ios, Web, Windows,Linux and Mac OS operating systems. 
+- It is a simple flappy bird game with score and high score feature enabled in it. 
+- As the user taps on the screen the bird starts moving up and comes down with an accelaration due to gravity. 
+- The bird has to pass between the vertically placed tunnel/barries which increases the total score by 1.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
